@@ -115,12 +115,6 @@
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
-        <Attributes>
-          <Attribute FrameworkAlternate="net-8.0-pp">
-            <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(1)]</AttributeName>
-            <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(1)&gt;]</AttributeName>
-          </Attribute>
-        </Attributes>
       </ReturnValue>
       <Parameters>
         <Parameter Name="source" Type="System.ReadOnlySpan&lt;System.Char&gt;" />
@@ -262,12 +256,6 @@
       </Attributes>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
-        <Attributes>
-          <Attribute FrameworkAlternate="net-8.0-pp">
-            <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(1)]</AttributeName>
-            <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(1)&gt;]</AttributeName>
-          </Attribute>
-        </Attributes>
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="T" />

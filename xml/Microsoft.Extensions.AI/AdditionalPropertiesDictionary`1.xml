@@ -601,12 +601,6 @@
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IEnumerator&lt;System.Collections.Generic.KeyValuePair&lt;System.String,TValue&gt;&gt;</ReturnType>
-        <Attributes>
-          <Attribute FrameworkAlternate="net-8.0-pp">
-            <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(new System.Byte[] { 1, 0, 1, 1 })]</AttributeName>
-            <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(new System.Byte[] { 1, 0, 1, 1 })&gt;]</AttributeName>
-          </Attribute>
-        </Attributes>
       </ReturnValue>
       <Parameters />
       <Docs>

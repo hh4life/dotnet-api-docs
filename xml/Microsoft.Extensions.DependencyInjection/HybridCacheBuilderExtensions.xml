@@ -93,16 +93,16 @@
           </Attributes>
         </TypeParameter>
         <TypeParameter Name="TImplementation">
+          <Constraints>
+            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
+            <InterfaceName>Microsoft.Extensions.Caching.Hybrid.IHybridCacheSerializer&lt;T&gt;</InterfaceName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
-            <InterfaceName>Microsoft.Extensions.Caching.Hybrid.IHybridCacheSerializer&lt;T&gt;</InterfaceName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>
@@ -165,16 +165,16 @@
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="TImplementation">
+          <Constraints>
+            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
+            <InterfaceName>Microsoft.Extensions.Caching.Hybrid.IHybridCacheSerializerFactory</InterfaceName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
-            <InterfaceName>Microsoft.Extensions.Caching.Hybrid.IHybridCacheSerializerFactory</InterfaceName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>

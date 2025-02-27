@@ -51,12 +51,6 @@
       </Attributes>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IEnumerable&lt;System.Net.ServerSentEvents.SseItem&lt;T&gt;&gt;</ReturnType>
-        <Attributes>
-          <Attribute FrameworkAlternate="net-8.0-pp">
-            <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(new System.Byte[] { 1, 0, 1 })]</AttributeName>
-            <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(new System.Byte[] { 1, 0, 1 })&gt;]</AttributeName>
-          </Attribute>
-        </Attributes>
       </ReturnValue>
       <Parameters />
       <Docs>
@@ -85,12 +79,6 @@
       </Attributes>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IAsyncEnumerable&lt;System.Net.ServerSentEvents.SseItem&lt;T&gt;&gt;</ReturnType>
-        <Attributes>
-          <Attribute FrameworkAlternate="net-8.0-pp">
-            <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(new System.Byte[] { 1, 0, 1 })]</AttributeName>
-            <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(new System.Byte[] { 1, 0, 1 })&gt;]</AttributeName>
-          </Attribute>
-        </Attributes>
       </ReturnValue>
       <Parameters>
         <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken">

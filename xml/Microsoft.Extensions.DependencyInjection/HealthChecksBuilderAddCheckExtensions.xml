@@ -134,16 +134,16 @@
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="T">
+          <Constraints>
+            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
+            <InterfaceName>Microsoft.Extensions.Diagnostics.HealthChecks.IHealthCheck</InterfaceName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
-            <InterfaceName>Microsoft.Extensions.Diagnostics.HealthChecks.IHealthCheck</InterfaceName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>
@@ -189,16 +189,16 @@
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="T">
+          <Constraints>
+            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
+            <InterfaceName>Microsoft.Extensions.Diagnostics.HealthChecks.IHealthCheck</InterfaceName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
-            <InterfaceName>Microsoft.Extensions.Diagnostics.HealthChecks.IHealthCheck</InterfaceName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>
@@ -254,16 +254,16 @@
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="T">
+          <Constraints>
+            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
+            <InterfaceName>Microsoft.Extensions.Diagnostics.HealthChecks.IHealthCheck</InterfaceName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
-            <InterfaceName>Microsoft.Extensions.Diagnostics.HealthChecks.IHealthCheck</InterfaceName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>
@@ -310,16 +310,16 @@
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="T">
+          <Constraints>
+            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
+            <InterfaceName>Microsoft.Extensions.Diagnostics.HealthChecks.IHealthCheck</InterfaceName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
-            <InterfaceName>Microsoft.Extensions.Diagnostics.HealthChecks.IHealthCheck</InterfaceName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>
@@ -371,16 +371,16 @@
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="T">
+          <Constraints>
+            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
+            <InterfaceName>Microsoft.Extensions.Diagnostics.HealthChecks.IHealthCheck</InterfaceName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
-            <InterfaceName>Microsoft.Extensions.Diagnostics.HealthChecks.IHealthCheck</InterfaceName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>
@@ -441,16 +441,16 @@
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="T">
+          <Constraints>
+            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
+            <InterfaceName>Microsoft.Extensions.Diagnostics.HealthChecks.IHealthCheck</InterfaceName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
-            <InterfaceName>Microsoft.Extensions.Diagnostics.HealthChecks.IHealthCheck</InterfaceName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>

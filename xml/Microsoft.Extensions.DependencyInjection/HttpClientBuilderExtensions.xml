@@ -206,15 +206,15 @@
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="THandler">
+          <Constraints>
+            <BaseTypeName>System.Net.Http.DelegatingHandler</BaseTypeName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(0)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(0)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <BaseTypeName>System.Net.Http.DelegatingHandler</BaseTypeName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>
@@ -309,15 +309,15 @@
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="TLogger">
+          <Constraints>
+            <InterfaceName>Microsoft.Extensions.Http.Logging.IHttpClientLogger</InterfaceName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(0)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(0)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <InterfaceName>Microsoft.Extensions.Http.Logging.IHttpClientLogger</InterfaceName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>
@@ -380,15 +380,15 @@
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="TClient">
+          <Constraints>
+            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>
@@ -547,16 +547,16 @@
           </Constraints>
         </TypeParameter>
         <TypeParameter Name="TImplementation">
+          <Constraints>
+            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
+            <BaseTypeName>TClient</BaseTypeName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
-            <BaseTypeName>TClient</BaseTypeName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>
@@ -848,15 +848,15 @@
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="THandler">
+          <Constraints>
+            <BaseTypeName>System.Net.Http.HttpMessageHandler</BaseTypeName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(0)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(0)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <BaseTypeName>System.Net.Http.HttpMessageHandler</BaseTypeName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>

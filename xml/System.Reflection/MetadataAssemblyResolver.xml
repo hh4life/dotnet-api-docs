@@ -58,12 +58,6 @@
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Reflection.Assembly</ReturnType>
-        <Attributes>
-          <Attribute FrameworkAlternate="net-8.0-pp">
-            <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(2)]</AttributeName>
-            <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(2)&gt;]</AttributeName>
-          </Attribute>
-        </Attributes>
       </ReturnValue>
       <Parameters>
         <Parameter Name="context" Type="System.Reflection.MetadataLoadContext" />

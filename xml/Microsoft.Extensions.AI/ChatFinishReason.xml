@@ -20,6 +20,10 @@
     </Interface>
   </Interfaces>
   <Attributes>
+    <Attribute>
+      <AttributeName Language="C#">[System.Text.Json.Serialization.JsonConverter(typeof(Microsoft.Extensions.AI.ChatFinishReason+Converter))]</AttributeName>
+      <AttributeName Language="F#">[&lt;System.Text.Json.Serialization.JsonConverter(typeof(Microsoft.Extensions.AI.ChatFinishReason+Converter))&gt;]</AttributeName>
+    </Attribute>
     <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
       <AttributeName Language="C#">[System.Runtime.CompilerServices.IsReadOnly]</AttributeName>
       <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.IsReadOnly&gt;]</AttributeName>
@@ -27,10 +31,6 @@
     <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
       <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(0)]</AttributeName>
       <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(0)&gt;]</AttributeName>
-    </Attribute>
-    <Attribute>
-      <AttributeName Language="C#">[System.Text.Json.Serialization.JsonConverter(typeof(Microsoft.Extensions.AI.ChatFinishReason+Converter))]</AttributeName>
-      <AttributeName Language="F#">[&lt;System.Text.Json.Serialization.JsonConverter(typeof(Microsoft.Extensions.AI.ChatFinishReason+Converter))&gt;]</AttributeName>
     </Attribute>
   </Attributes>
   <Docs>

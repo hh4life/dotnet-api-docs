@@ -67,6 +67,9 @@
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="T">
+          <Constraints>
+            <BaseTypeName>Microsoft.Extensions.Compliance.Redaction.Redactor</BaseTypeName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
@@ -77,9 +80,6 @@
               <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(0)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <BaseTypeName>Microsoft.Extensions.Compliance.Redaction.Redactor</BaseTypeName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters />
@@ -109,6 +109,9 @@
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="T">
+          <Constraints>
+            <BaseTypeName>Microsoft.Extensions.Compliance.Redaction.Redactor</BaseTypeName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
@@ -119,9 +122,6 @@
               <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(0)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <BaseTypeName>Microsoft.Extensions.Compliance.Redaction.Redactor</BaseTypeName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>

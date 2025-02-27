@@ -73,16 +73,16 @@
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="T">
+          <Constraints>
+            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
+            <InterfaceName>Microsoft.Extensions.Diagnostics.Metrics.IMetricsListener</InterfaceName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
-            <InterfaceName>Microsoft.Extensions.Diagnostics.Metrics.IMetricsListener</InterfaceName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>
@@ -210,12 +210,6 @@
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.Diagnostics.Metrics.IMetricsBuilder</ReturnType>
-        <Attributes>
-          <Attribute FrameworkAlternate="net-8.0-pp">
-            <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(1)]</AttributeName>
-            <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(1)&gt;]</AttributeName>
-          </Attribute>
-        </Attributes>
       </ReturnValue>
       <Parameters>
         <Parameter Name="builder" Type="Microsoft.Extensions.Diagnostics.Metrics.IMetricsBuilder" RefType="this">
@@ -257,12 +251,6 @@
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.Diagnostics.Metrics.MetricsOptions</ReturnType>
-        <Attributes>
-          <Attribute FrameworkAlternate="net-8.0-pp">
-            <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(1)]</AttributeName>
-            <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(1)&gt;]</AttributeName>
-          </Attribute>
-        </Attributes>
       </ReturnValue>
       <Parameters>
         <Parameter Name="options" Type="Microsoft.Extensions.Diagnostics.Metrics.MetricsOptions" RefType="this">
@@ -376,12 +364,6 @@
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.Diagnostics.Metrics.IMetricsBuilder</ReturnType>
-        <Attributes>
-          <Attribute FrameworkAlternate="net-8.0-pp">
-            <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(1)]</AttributeName>
-            <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(1)&gt;]</AttributeName>
-          </Attribute>
-        </Attributes>
       </ReturnValue>
       <Parameters>
         <Parameter Name="builder" Type="Microsoft.Extensions.Diagnostics.Metrics.IMetricsBuilder" RefType="this">
@@ -423,12 +405,6 @@
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.Diagnostics.Metrics.MetricsOptions</ReturnType>
-        <Attributes>
-          <Attribute FrameworkAlternate="net-8.0-pp">
-            <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(1)]</AttributeName>
-            <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(1)&gt;]</AttributeName>
-          </Attribute>
-        </Attributes>
       </ReturnValue>
       <Parameters>
         <Parameter Name="options" Type="Microsoft.Extensions.Diagnostics.Metrics.MetricsOptions" RefType="this">

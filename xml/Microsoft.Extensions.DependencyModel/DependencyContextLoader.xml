@@ -90,12 +90,6 @@
       </Attributes>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyModel.DependencyContext</ReturnType>
-        <Attributes>
-          <Attribute FrameworkAlternate="net-8.0-pp">
-            <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(2)]</AttributeName>
-            <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(2)&gt;]</AttributeName>
-          </Attribute>
-        </Attributes>
       </ReturnValue>
       <Parameters>
         <Parameter Name="assembly" Type="System.Reflection.Assembly" />

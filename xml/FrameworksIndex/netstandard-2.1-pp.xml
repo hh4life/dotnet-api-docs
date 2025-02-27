@@ -6,7 +6,7 @@
     <Assembly Name="Microsoft.Bcl.Memory" Version="9.0.0.2" />
     <Assembly Name="Microsoft.Bcl.Numerics" Version="9.0.0.2" />
     <Assembly Name="Microsoft.Extensions.Caching.Hybrid" Version="9.2.0.0" />
-    <Assembly Name="Microsoft.Extensions.Configuration.Json" Version="9.0.0.0" />
+    <Assembly Name="Microsoft.Extensions.Configuration.Json" Version="10.0.0.0" />
     <Assembly Name="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.0.0" />
     <Assembly Name="Microsoft.Extensions.DependencyInjection" Version="9.0.0.0" />
     <Assembly Name="Microsoft.Extensions.Hosting.Abstractions" Version="9.0.0.0" />

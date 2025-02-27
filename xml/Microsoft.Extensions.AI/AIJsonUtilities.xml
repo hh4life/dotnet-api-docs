@@ -83,15 +83,15 @@
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="TContent">
+          <Constraints>
+            <BaseTypeName>Microsoft.Extensions.AI.AIContent</BaseTypeName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(0)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(0)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <BaseTypeName>Microsoft.Extensions.AI.AIContent</BaseTypeName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>

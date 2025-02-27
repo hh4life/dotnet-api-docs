@@ -15,6 +15,10 @@
   </Base>
   <Interfaces />
   <Attributes>
+    <Attribute>
+      <AttributeName Language="C#">[System.Text.Json.Serialization.JsonConverter(typeof(Microsoft.Extensions.AI.OpenAIChatCompletionRequest+Converter))]</AttributeName>
+      <AttributeName Language="F#">[&lt;System.Text.Json.Serialization.JsonConverter(typeof(Microsoft.Extensions.AI.OpenAIChatCompletionRequest+Converter))&gt;]</AttributeName>
+    </Attribute>
     <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
       <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(0)]</AttributeName>
       <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(0)&gt;]</AttributeName>
@@ -22,10 +26,6 @@
     <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
       <AttributeName Language="C#">[System.Runtime.CompilerServices.RequiredMember]</AttributeName>
       <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.RequiredMember&gt;]</AttributeName>
-    </Attribute>
-    <Attribute>
-      <AttributeName Language="C#">[System.Text.Json.Serialization.JsonConverter(typeof(Microsoft.Extensions.AI.OpenAIChatCompletionRequest+Converter))]</AttributeName>
-      <AttributeName Language="F#">[&lt;System.Text.Json.Serialization.JsonConverter(typeof(Microsoft.Extensions.AI.OpenAIChatCompletionRequest+Converter))&gt;]</AttributeName>
     </Attribute>
   </Attributes>
   <Docs>

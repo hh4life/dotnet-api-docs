@@ -162,16 +162,6 @@
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
-        <Attributes>
-          <Attribute FrameworkAlternate="net-9.0-pp">
-            <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.NotNullIfNotNull("localizedString")]</AttributeName>
-            <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.NotNullIfNotNull("localizedString")&gt;]</AttributeName>
-          </Attribute>
-          <Attribute FrameworkAlternate="net-9.0-pp">
-            <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(2)]</AttributeName>
-            <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(2)&gt;]</AttributeName>
-          </Attribute>
-        </Attributes>
       </ReturnValue>
       <Parameters>
         <Parameter Name="localizedString" Type="Microsoft.Extensions.Localization.LocalizedString" />

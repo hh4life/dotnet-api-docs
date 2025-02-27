@@ -438,6 +438,9 @@
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="TFormatter">
+          <Constraints>
+            <BaseTypeName>Microsoft.Extensions.Logging.Console.ConsoleFormatter</BaseTypeName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
@@ -448,11 +451,11 @@
               <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(0)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <BaseTypeName>Microsoft.Extensions.Logging.Console.ConsoleFormatter</BaseTypeName>
-          </Constraints>
         </TypeParameter>
         <TypeParameter Name="TOptions">
+          <Constraints>
+            <BaseTypeName>Microsoft.Extensions.Logging.Console.ConsoleFormatterOptions</BaseTypeName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.All)]</AttributeName>
@@ -463,9 +466,6 @@
               <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(0)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <BaseTypeName>Microsoft.Extensions.Logging.Console.ConsoleFormatterOptions</BaseTypeName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>
@@ -509,6 +509,9 @@
       </ReturnValue>
       <TypeParameters>
         <TypeParameter Name="TFormatter">
+          <Constraints>
+            <BaseTypeName>Microsoft.Extensions.Logging.Console.ConsoleFormatter</BaseTypeName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
@@ -519,11 +522,11 @@
               <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(0)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <BaseTypeName>Microsoft.Extensions.Logging.Console.ConsoleFormatter</BaseTypeName>
-          </Constraints>
         </TypeParameter>
         <TypeParameter Name="TOptions">
+          <Constraints>
+            <BaseTypeName>Microsoft.Extensions.Logging.Console.ConsoleFormatterOptions</BaseTypeName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.All)]</AttributeName>
@@ -534,9 +537,6 @@
               <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(0)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <BaseTypeName>Microsoft.Extensions.Logging.Console.ConsoleFormatterOptions</BaseTypeName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>

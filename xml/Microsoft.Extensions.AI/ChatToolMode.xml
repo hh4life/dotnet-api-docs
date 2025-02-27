@@ -16,10 +16,6 @@
   </Base>
   <Interfaces />
   <Attributes>
-    <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
-      <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(0)]</AttributeName>
-      <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(0)&gt;]</AttributeName>
-    </Attribute>
     <Attribute>
       <AttributeName Language="C#">[System.Text.Json.Serialization.JsonDerivedType(typeof(Microsoft.Extensions.AI.NoneChatToolMode), "none")]</AttributeName>
       <AttributeName Language="F#">[&lt;System.Text.Json.Serialization.JsonDerivedType(typeof(Microsoft.Extensions.AI.NoneChatToolMode), "none")&gt;]</AttributeName>
@@ -35,6 +31,10 @@
     <Attribute>
       <AttributeName Language="C#">[System.Text.Json.Serialization.JsonPolymorphic(TypeDiscriminatorPropertyName="$type")]</AttributeName>
       <AttributeName Language="F#">[&lt;System.Text.Json.Serialization.JsonPolymorphic(TypeDiscriminatorPropertyName="$type")&gt;]</AttributeName>
+    </Attribute>
+    <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
+      <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(0)]</AttributeName>
+      <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(0)&gt;]</AttributeName>
     </Attribute>
   </Attributes>
   <Docs>

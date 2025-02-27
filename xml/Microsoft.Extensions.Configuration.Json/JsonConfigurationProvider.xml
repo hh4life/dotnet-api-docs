@@ -19,6 +19,7 @@
     <AssemblyVersion>7.0.0.0</AssemblyVersion>
     <AssemblyVersion>8.0.0.0</AssemblyVersion>
     <AssemblyVersion>9.0.0.0</AssemblyVersion>
+    <AssemblyVersion>10.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.Extensions.Configuration.FileConfigurationProvider</BaseTypeName>
@@ -56,6 +57,7 @@ For more information and examples, see [JSON configuration provider](/dotnet/cor
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Configuration.Json</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="source" Type="Microsoft.Extensions.Configuration.Json.JsonConfigurationSource" />
@@ -79,6 +81,7 @@ For more information and examples, see [JSON configuration provider](/dotnet/cor
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Configuration.Json</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>

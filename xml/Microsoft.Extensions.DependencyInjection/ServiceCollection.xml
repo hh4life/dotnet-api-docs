@@ -23,6 +23,7 @@
     <AssemblyVersion>7.0.0.0</AssemblyVersion>
     <AssemblyVersion>8.0.0.0</AssemblyVersion>
     <AssemblyVersion>9.0.0.0</AssemblyVersion>
+    <AssemblyVersion>10.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <TypeForwardingChain>
     <TypeForwarding From="Microsoft.Extensions.DependencyInjection" FromVersion="9.0.0.0" To="Microsoft.Extensions.DependencyInjection.Abstractions" ToVersion="9.0.0.0" />
@@ -95,6 +96,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -127,6 +129,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -163,6 +166,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -204,6 +208,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -245,6 +250,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int32</ReturnType>
@@ -281,6 +287,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IEnumerator&lt;Microsoft.Extensions.DependencyInjection.ServiceDescriptor&gt;</ReturnType>
@@ -318,6 +325,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int32</ReturnType>
@@ -358,6 +366,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -399,6 +408,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -436,6 +446,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -462,6 +473,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection</AssemblyName>
@@ -504,6 +516,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -545,6 +558,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -584,6 +598,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -622,6 +637,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.IEnumerator</ReturnType>

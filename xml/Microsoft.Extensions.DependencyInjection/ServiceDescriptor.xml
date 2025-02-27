@@ -19,6 +19,7 @@
     <AssemblyVersion>7.0.0.0</AssemblyVersion>
     <AssemblyVersion>8.0.0.0</AssemblyVersion>
     <AssemblyVersion>9.0.0.0</AssemblyVersion>
+    <AssemblyVersion>10.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -52,6 +53,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="serviceType" Type="System.Type" />
@@ -78,6 +80,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="serviceType" Type="System.Type" />
@@ -105,6 +108,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="serviceType" Type="System.Type" />
@@ -140,6 +144,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="serviceType" Type="System.Type" />
@@ -174,6 +179,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="serviceType" Type="System.Type" />
@@ -217,6 +223,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="serviceType" Type="System.Type" />
@@ -260,6 +267,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -293,6 +301,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -333,6 +342,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -382,6 +392,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -431,6 +442,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
@@ -463,6 +475,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
@@ -495,6 +508,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
@@ -531,6 +545,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -554,6 +569,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
@@ -586,6 +602,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
@@ -618,6 +635,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
@@ -654,6 +672,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -701,6 +720,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -748,6 +768,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -801,6 +822,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -812,16 +834,16 @@
           </Constraints>
         </TypeParameter>
         <TypeParameter Name="TImplementation">
+          <Constraints>
+            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
+            <BaseTypeName>TService</BaseTypeName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
-            <BaseTypeName>TService</BaseTypeName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>
@@ -858,6 +880,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -919,6 +942,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -966,6 +990,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1006,6 +1031,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1053,6 +1079,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1106,6 +1133,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1152,6 +1180,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1163,16 +1192,16 @@
           </Constraints>
         </TypeParameter>
         <TypeParameter Name="TImplementation">
+          <Constraints>
+            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
+            <BaseTypeName>TService</BaseTypeName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
-            <BaseTypeName>TService</BaseTypeName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>
@@ -1209,6 +1238,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1270,6 +1300,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1317,6 +1348,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1364,6 +1396,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1417,6 +1450,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1428,16 +1462,16 @@
           </Constraints>
         </TypeParameter>
         <TypeParameter Name="TImplementation">
+          <Constraints>
+            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
+            <BaseTypeName>TService</BaseTypeName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
-            <BaseTypeName>TService</BaseTypeName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters>
@@ -1474,6 +1508,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1535,6 +1570,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceLifetime</ReturnType>
@@ -1558,6 +1594,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1589,6 +1626,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1627,6 +1665,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1664,6 +1703,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1675,16 +1715,16 @@
           </Constraints>
         </TypeParameter>
         <TypeParameter Name="TImplementation">
+          <Constraints>
+            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
+            <BaseTypeName>TService</BaseTypeName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
-            <BaseTypeName>TService</BaseTypeName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters />
@@ -1711,6 +1751,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1756,6 +1797,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
@@ -1785,6 +1827,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Type</ReturnType>
@@ -1808,6 +1851,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1839,6 +1883,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1870,6 +1915,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1908,6 +1954,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1945,6 +1992,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1982,6 +2030,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -1993,16 +2042,16 @@
           </Constraints>
         </TypeParameter>
         <TypeParameter Name="TImplementation">
+          <Constraints>
+            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
+            <BaseTypeName>TService</BaseTypeName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
-            <BaseTypeName>TService</BaseTypeName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters />
@@ -2029,6 +2078,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -2074,6 +2124,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -2097,6 +2148,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -2128,6 +2180,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -2166,6 +2219,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -2203,6 +2257,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>
@@ -2214,16 +2269,16 @@
           </Constraints>
         </TypeParameter>
         <TypeParameter Name="TImplementation">
+          <Constraints>
+            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
+            <BaseTypeName>TService</BaseTypeName>
+          </Constraints>
           <Attributes>
             <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicConstructors)&gt;]</AttributeName>
             </Attribute>
           </Attributes>
-          <Constraints>
-            <ParameterAttribute>ReferenceTypeConstraint</ParameterAttribute>
-            <BaseTypeName>TService</BaseTypeName>
-          </Constraints>
         </TypeParameter>
       </TypeParameters>
       <Parameters />
@@ -2250,6 +2305,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Abstractions</AssemblyName>
         <AssemblyVersion>9.0.0.0</AssemblyVersion>
+        <AssemblyVersion>10.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Extensions.DependencyInjection.ServiceDescriptor</ReturnType>

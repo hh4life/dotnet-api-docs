@@ -21,15 +21,15 @@
       </Attributes>
     </TypeParameter>
     <TypeParameter Name="TEmbedding">
+      <Constraints>
+        <BaseTypeName>Microsoft.Extensions.AI.Embedding</BaseTypeName>
+      </Constraints>
       <Attributes>
         <Attribute FrameworkAlternate="net-8.0-pp;net-9.0-pp">
           <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(0)]</AttributeName>
           <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(0)&gt;]</AttributeName>
         </Attribute>
       </Attributes>
-      <Constraints>
-        <BaseTypeName>Microsoft.Extensions.AI.Embedding</BaseTypeName>
-      </Constraints>
     </TypeParameter>
   </TypeParameters>
   <Base>
@@ -164,12 +164,6 @@
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;TEmbedding&gt;</ReturnType>
-        <Attributes>
-          <Attribute FrameworkAlternate="net-8.0-pp">
-            <AttributeName Language="C#">[System.Runtime.CompilerServices.Nullable(new System.Byte[] { 1, 2 })]</AttributeName>
-            <AttributeName Language="F#">[&lt;System.Runtime.CompilerServices.Nullable(new System.Byte[] { 1, 2 })&gt;]</AttributeName>
-          </Attribute>
-        </Attributes>
       </ReturnValue>
       <Parameters>
         <Parameter Name="key" Type="System.String" />
